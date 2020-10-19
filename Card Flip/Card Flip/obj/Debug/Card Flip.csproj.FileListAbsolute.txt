@@ -1,0 +1,9 @@
+C:\Users\Joshua\source\repos\Card Flip\Card Flip\bin\Debug\Card Flip.exe.config
+C:\Users\Joshua\source\repos\Card Flip\Card Flip\bin\Debug\Card Flip.exe
+C:\Users\Joshua\source\repos\Card Flip\Card Flip\bin\Debug\Card Flip.pdb
+C:\Users\Joshua\source\repos\Card Flip\Card Flip\obj\Debug\Card_Flip.Form1.resources
+C:\Users\Joshua\source\repos\Card Flip\Card Flip\obj\Debug\Card_Flip.Properties.Resources.resources
+C:\Users\Joshua\source\repos\Card Flip\Card Flip\obj\Debug\Card Flip.csproj.GenerateResource.cache
+C:\Users\Joshua\source\repos\Card Flip\Card Flip\obj\Debug\Card Flip.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\Card Flip\Card Flip\obj\Debug\Card Flip.exe
+C:\Users\Joshua\source\repos\Card Flip\Card Flip\obj\Debug\Card Flip.pdb

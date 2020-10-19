@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Card Flip", "Card Flip\Card Flip.csproj", "{9274BB3F-01DC-4458-866C-F0A21764BCCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9274BB3F-01DC-4458-866C-F0A21764BCCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9274BB3F-01DC-4458-866C-F0A21764BCCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9274BB3F-01DC-4458-866C-F0A21764BCCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9274BB3F-01DC-4458-866C-F0A21764BCCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA2A4992-D599-4860-9A33-691EBC0FCF93}
+	EndGlobalSection
+EndGlobal
