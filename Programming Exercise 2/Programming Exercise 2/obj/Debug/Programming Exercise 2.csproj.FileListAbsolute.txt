@@ -1,0 +1,10 @@
+C:\Users\Joshua\source\repos\Programming Exercise 2\Programming Exercise 2\bin\Debug\Programming Exercise 2.exe.config
+C:\Users\Joshua\source\repos\Programming Exercise 2\Programming Exercise 2\bin\Debug\Programming Exercise 2.exe
+C:\Users\Joshua\source\repos\Programming Exercise 2\Programming Exercise 2\bin\Debug\Programming Exercise 2.pdb
+C:\Users\Joshua\source\repos\Programming Exercise 2\Programming Exercise 2\obj\Debug\Programming Exercise 2.csprojAssemblyReference.cache
+C:\Users\Joshua\source\repos\Programming Exercise 2\Programming Exercise 2\obj\Debug\Programming_Exercise_2.shapeMakerForm.resources
+C:\Users\Joshua\source\repos\Programming Exercise 2\Programming Exercise 2\obj\Debug\Programming_Exercise_2.Properties.Resources.resources
+C:\Users\Joshua\source\repos\Programming Exercise 2\Programming Exercise 2\obj\Debug\Programming Exercise 2.csproj.GenerateResource.cache
+C:\Users\Joshua\source\repos\Programming Exercise 2\Programming Exercise 2\obj\Debug\Programming Exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\Programming Exercise 2\Programming Exercise 2\obj\Debug\Programming Exercise 2.exe
+C:\Users\Joshua\source\repos\Programming Exercise 2\Programming Exercise 2\obj\Debug\Programming Exercise 2.pdb
