@@ -1,0 +1,10 @@
+C:\Users\Joshua\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\Joshua\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\Joshua\source\repos\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\Joshua\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csprojAssemblyReference.cache
+C:\Users\Joshua\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.MainForm.resources
+C:\Users\Joshua\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\Joshua\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\Joshua\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\Joshua\source\repos\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
