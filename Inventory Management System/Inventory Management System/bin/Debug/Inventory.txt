@@ -1,3 +1,0 @@
-Product Name, Part Number, Product Quantity, Product Price
-Wheel,123456,3,2000
-Tire,32145,4,1500
